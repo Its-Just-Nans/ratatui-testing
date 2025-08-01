@@ -1,1 +1,5 @@
-# ratatui-testing
+# ratatui-json-editor
+
+```sh
+cargo run -- test.json
+```

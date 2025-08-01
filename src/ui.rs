@@ -5,7 +5,6 @@ use ratatui::{
     widgets::{Block, Borders, Clear, Paragraph, Widget, Wrap},
     Frame,
 };
-use serde_json::Value;
 
 use crate::app::{App, CurrentScreen, CurrentlyEditing, InputFile};
 
